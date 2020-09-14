@@ -6,8 +6,8 @@
 TensorFlow-1.10.0
 
 ## Datasets Included
--a simulation dataset based on CoxPH settings 
--FLCHAIN dataset
+ - a simulation dataset based on CoxPH settings 
+ - FLCHAIN dataset: public available
 
-> still under contribution
 ## Syntax to Run VSI
+> still under contribution
